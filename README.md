@@ -1,6 +1,8 @@
 # LxgwWenKaiNerdFont
 LXGW WenKai / 霞鹜文楷的nerd font版本，通过font forge修补的complete版本。
 
+![preview](https://github.com/Alluofuyo/LxgwWenKaiNerdFont/blob/64f53b49fa2f02013757cfb333b4c8e764cf3fe4/img/preview.png)
+
 ## 安装
 进入 Release 界面下载
 
